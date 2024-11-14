@@ -6,7 +6,7 @@
 ##### 3) K-Nearest-Neighbors 
 ##### 4) Support Vector Classifier 
 ##### At last I end up with KNN(score : 77.8) at my best.
-### Rank : 3300 out of 61417
+
 
 # Problem Statement #
 Dream Housing Finance company deals in all kinds of home loans. They have presence across all urban, semi urban and rural areas. Customer first applies for home loan and after that company validates the customer eligibility for loan.
